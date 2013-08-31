@@ -70,32 +70,6 @@ ul.posts span {
   color: #aaa;
 }
 
-.site .footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
-}
-
-.site .footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-.site .footer .contact a {
-  color: #8085C1;
-}
-
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.site .footer .rss img {
-  border: 0;
-}
 
 /*****************************************************************************/
 /*
@@ -230,4 +204,27 @@ ul.posts span {
 
 .team_list .right img{
   float:right ;
+}
+
+/* FOOTER */
+
+.connect {
+  width: 40%;
+  float: left;
+}
+
+.newsletter {
+  width: 59%;
+  float: left;
+}
+
+.imprint {
+  padding: 3em 0 0 0;
+  clear: both;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.imprint address {
+  display: inline;
 }
