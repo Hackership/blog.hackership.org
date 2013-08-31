@@ -10,6 +10,8 @@ tags: ["hackership", "berlin"]
 image: http://blog.opentechschool.org/assets/content/hackership-teaser.png
 ---
 
+[This has been [crossposted from the OpenTechSchool Blog](http://blog.opentechschool.org/2013/08/opentechschool-berlin-goes-full-time-announcing-the-first-hackership-programme.html) ]
+
 We've already announced that we are looking into offering a more in-depth programme [back in May at Codemotion ](http://blog.opentechschool.org/2013/05/presenting-at-codemotion-the-state-of-tech-education.html) but thanks [to feedback and input of the community](http://blog.opentechschool.org/2013/06/lets-talk-about-an-in-depth-programme.html) we now also know what we want to do specifically: we call it [Hackership](http://www.hackership.org/).
 
 ![Hackership Teaser](http://blog.opentechschool.org/assets/content/hackership-teaser.png)
