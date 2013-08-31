@@ -1,13 +1,85 @@
 ---
 layout: default
-title: Your New Jekyll Site
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+<div class="posts row">
+{% for post in paginator.posts %}
+  
+  <h2 class="post_title">
+    <span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
+  </h2>
+
+  <span class="post_meta">
+
+    {% if post.authors %}
+      {% for author_id in post.authors %}
+        {% assign author = site.authors[author_id] %}
+        <a href="{{author.link}}">{{author.name}}</a>{% if forloop.last == false -%}, {% endif %}        
+      {% endfor %}
+
+    {% else %}
+      {% if post.author %}
+        {% assign author_id = post.author %}
+      {% else %}
+          {% assign author_id = site.default_author %}
+      {% endif %}    
+
+      {% assign author = site.authors[author_id] %}
+
+      {% if author.link %}
+        <a href="{{author.link">{{author.name}}</a>
+      {% endif %}
+    {% endif %}
+    &middot;    
+    {{ post.date | date_to_long_string }}
+  </span>
+
+
+    <div class="post-content">
+      {% if post.image %}
+        <a class="header-image" href="{{ BASE_PATH }}{{ post.url }}">
+          <img alt="{{ post.title }}" src="{{ post.image }}" />
+        </a>
+      {% endif %}
+      {% if post.description and post.description != "" %}
+        {{ post.description | markdownify }} 
+      {% else %}
+        {{ post.content | markdownify }}
+      {% endif %}
+    </div>
+    <div class="post-meta">
+       {% if post.description and post.description != "" %}// <a href="{{ BASE_PATH }}{{ post.url }}">read&nbsp;more</a> <br>{% endif %}
+       // <a class="comments_action" href="{{ BASE_PATH }}{{ post.url }}#disqus_thread">leave comment</a>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="pager">
+  <ul>
+    {% if paginator.previous_page %}
+      <li class="previous">
+        {% if paginator.previous_page == 1 %}
+          <a href="{{ HOME_PATH }}">&larr; Newer</a>
+        {% else %}
+          <a href="{{ HOME_PATH }}page{{paginator.previous_page}}" >&larr; Newer</a>
+        {% endif %}
+      </li>
+    {% else %}
+      <li class="previous disabled">
+        <span>&larr; Newer</span>
+      </li>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <li class="next">
+        <a href="{{ HOME_PATH }}page{{paginator.next_page}}">Older &rarr;</a>
+      </li>
+    {% else %}
+      <li class="next disabled">
+        <span>Older &rarr;</span>
+      </li>
+    {% endif %}
   </ul>
 </div>

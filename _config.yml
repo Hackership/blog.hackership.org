@@ -1,3 +1,41 @@
-name: Hackership blog
+
+title: Hackership blog
+tagline: time to become a better hacker
+description: "time to become a better hacker"
+
 markdown: redcarpet
 pygments: true
+production_url: http://blog.hackership.org
+permalink: /:year/:month/:title.html 
+
+# the number of post per page
+paginate: 8 
+
+publisher: ## OpenTechSchool Page
+  gplus: 114286322233180061886
+
+authors:
+  amelie:
+    name: "Amélie Anglade"
+    gplus: 113881124006632726148
+    email: amelie at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/amelie.jpg
+    about: is Software Engineer at Soundcloud and Tech Ambassador of the Berlin Geekettes. For the OpenTechSchool she does public appearances, organises workshops (best known for python) and works at the long- and short-term strategies.
+    link: "http://blog.OpenTechSchool.org/authors.html#amelie"
+  ben:
+    name: "Benjamin Kampmann"
+    gplus: 104898591568170720911
+    email: ben at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/ben.jpg
+    about: is freelance Software Developer and Product Creator. Aside from helping with the organisation of workshops and events, he is part of the strategic team and author of many of the blueprints.
+    link: "http://blog.OpenTechSchool.org/authors.html#ben"
+  rachel:
+    name: Rachel Uwa
+    gplus:
+    email: rachel at OpenTechSchool dot org
+    image: http://www.opentechschool.org/images/team/rachel.jpg
+    about: Organisation wizzard and keen on everything visual and design related, from 3D over visual effect up to interactive installation, she can talk with your for hours. As such she is leading the Design-, Processing and UI endevors of the OpenTechSchool Berlin.
+    link: "http://blog.OpenTechSchool.org/authors.html#rachel"
+default_author: ben
+# right now: OpenTechSchool Page, Aleks, Stefan, Amelie, Ben, Bea
+fb_admins: "206143009512726,100004018402966,100000191404975,674380907,1443070876,100003987735511"
