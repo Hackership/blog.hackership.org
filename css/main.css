@@ -104,6 +104,52 @@ ul.posts span {
 /*****************************************************************************/
 
 /* standard */
+
+
+.posts {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+  h2.post_title {
+    margin-top: 3em;  
+    text-align: center;
+    border-bottom: 1px solid #EEE;
+    padding-bottom: .5em;
+    text-transform: uppercase;
+    position: relative;
+    margin-bottom: .75em;
+  }
+
+  h2.post_title a {
+    color: black;
+    text-decoration: none;
+  }
+
+  .header_image {
+    margin-bottom: 1.5em;  
+    display: block;   
+  }
+
+  .post_content {
+   padding-bottom: 1.5em; 
+  }
+
+  .post_meta {
+    position: relative;
+    width: 100%;
+    display: block;
+    margin-bottom: 1.5em;
+    font-size: .88em;
+    color: #A3A3A3;
+    text-align: center;   
+  }
+  
+  .read_more {
+    float: right;
+    margin-top: -.3em;
+  }
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -133,4 +179,55 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+.team_list h2 { 
+  text-align: center;
+  border-top: 1px solid #EEE;
+  padding-top: .5em;
+  text-transform: uppercase;
+  position: relative;
+  margin-bottom: .75em;
+}
+
+
+.team_list img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+.team_list div {
+  clear: both;
+  margin: 15px;
+  min-height: 200px;
+}
+
+
+.team_list h3 {
+  padding-top: 30px;
+}
+
+.team_list p {
+  font-size: 0.8em;
+}
+
+.team_list .left {
+  text-align: left;
+}
+
+.team_list .left img{
+  float:left ;
+}
+
+
+
+.team_list .right {
+  text-align: right;
+}
+
+.team_list .right img{
+  float:right ;
 }
