@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="posts row">
+<div class="posts">
 {% for post in paginator.posts %}
   
   <h2 class="post_title">
@@ -51,7 +51,6 @@ layout: default
        {% if post.description and post.description != "" %}// <a href="{{ BASE_PATH }}{{ post.url }}">read&nbsp;more</a> <br>{% endif %}
        // <a class="comments_action" href="{{ BASE_PATH }}{{ post.url }}#disqus_thread">leave comment</a>
     </div>
-  </div>
 {% endfor %}
 </div>
 
@@ -61,24 +60,24 @@ layout: default
     {% if paginator.previous_page %}
       <li class="previous">
         {% if paginator.previous_page == 1 %}
-          <a href="{{ HOME_PATH }}">&larr; Newer</a>
+          <a href="{{ HOME_PATH }}">&#8810; Newer</a>
         {% else %}
-          <a href="{{ HOME_PATH }}page{{paginator.previous_page}}" >&larr; Newer</a>
+          <a href="{{ HOME_PATH }}page{{paginator.previous_page}}" >&#8810; Newer</a>
         {% endif %}
       </li>
     {% else %}
       <li class="previous disabled">
-        <span>&larr; Newer</span>
+        <span>&#8810; Newer</span>
       </li>
     {% endif %}
 
     {% if paginator.next_page %}
       <li class="next">
-        <a href="{{ HOME_PATH }}page{{paginator.next_page}}">Older &rarr;</a>
+        <a href="{{ HOME_PATH }}page{{paginator.next_page}}">Older &#8811;</a>
       </li>
     {% else %}
       <li class="next disabled">
-        <span>Older &rarr;</span>
+        <span>Older &#8811;</span>
       </li>
     {% endif %}
   </ul>

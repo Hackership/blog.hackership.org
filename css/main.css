@@ -232,3 +232,20 @@ ul.posts span {
 .imprint address {
   display: inline;
 }
+
+.pager {
+  text-align: center
+}
+
+.pager ul {
+  list-style: none;
+}
+
+.pager li {
+  display: inline;
+  padding: 0 0.5em;
+}
+
+.pager .disabled {
+  color: #aaa;
+}
