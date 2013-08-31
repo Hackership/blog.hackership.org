@@ -1,6 +1,9 @@
 .site-header {
   padding: 0.8em 0;
 }
+.site-logo a {
+  text-decoration: none;
+}
 /*****************************************************************************/
 /*
 /* Home
@@ -32,7 +35,7 @@ ul.posts span {
   text-align: justify;
   width: 42em;
   margin: 0em auto 2em;
-  padding-top: 3em;
+  padding: 3em 0;
   line-height: 1.5em;
 }
 
