@@ -33,9 +33,9 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  max-width: 44em;
   margin: 0em auto 2em;
-  padding: 3em 0;
+  padding: 3em 1em;
   line-height: 1.5em;
 }
 
