@@ -155,7 +155,7 @@ ul.posts span {
   background-color: #333;
 }
 
-.post-content img {
+.post_content img {
   max-width: 100%;
 }
 
@@ -248,4 +248,15 @@ ul.posts span {
 
 .pager .disabled {
   color: #aaa;
+}
+
+em {
+  color: inherit;
+  font-style: italic;
+  font-weight: inherit;
+}
+
+strong {
+  color: #20A260;
+  font-weight: normal;
 }
