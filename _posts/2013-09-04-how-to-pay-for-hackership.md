@@ -50,3 +50,6 @@ Freelancing is another case that can be tricky as seen from the classic model pe
 
 ### Conclusion
 For a community-run system, the alumni-support model is the most flexible and appropriate of all possible models with which to run this programme. With the scarcity in computer programmers being so high, we aren't at all concerned that any learner will ever have a problem paying for it. However, if there are any concerns, we are willing and able to help with that, too.
+
+---- 
+Thanks to [Morgan for publishing this great picture of wall-e on flickr](http://www.flickr.com/photos/meddygarnet/5176723941/) under [CC-SA](http://creativecommons.org/licenses/by/2.0/deed.en).
