@@ -8,6 +8,8 @@ pygments: true
 production_url: http://blog.hackership.org
 permalink: /:year/:month/:title.html 
 
+disqus_short_name: hackership
+
 # the number of post per page
 paginate: 8 
 
