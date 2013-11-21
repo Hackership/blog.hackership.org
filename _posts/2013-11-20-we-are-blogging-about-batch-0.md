@@ -24,7 +24,7 @@ We began intro workshops for Batch-0 this Monday, focusing on learning technique
 
 ---
 
-**Laura** is yet another American in Berlin learning to program. She participated in the inaugural cohort of the Rails Girls Summer of Code, where she built a new web application for aggregating learning resources and wrote her own programming language. Before coming to Berlin in 2012, she worked as a program manager with queer and transgender youth activists in San Francisco. During Hackership, Laura will focus on Javascript and data visualization. In her spare time, you can find Laura riding her bike and speaking passionately about social justice, technology and the intersections of the two.
+**Laura** is yet another American in Berlin learning to program. She participated in the inaugural cohort of the Rails Girls Summer of Code, where she built a new web application for aggregating learning resources and wrote her own programming language. Before coming to Berlin in 2012, she worked as a program manager with queer and transgender youth activists in San Francisco. During Hackership, Laura will focus on Javascript and data visualization. In her spare time, you can find Laura riding her bike and speaking passionately about social justice, technology and the intersections of the two. [Follow her on twitter for latest updates](https://twitter.com/laurawadden).
 
 ---
 
@@ -35,5 +35,6 @@ We began intro workshops for Batch-0 this Monday, focusing on learning technique
 **Carolina** has been part of the spanish free software community for a long time, has founded a women free software cooperative where she has done some web development but mainly consultancy for social and cultural institutions. Her main goal is to give a social approach to technology, to facilitate the access for all to information and knowledge, loves getting involved in social projects related with technology that have to do with digital libraries or  social media. After many year talking with people about technology now has decided to talk to the machines and is learning again web develpment in Ruby and Rails, has done Rails Girls Summer of Code working on free social network Diaspora and now taking part in the Hackership to build a stand alone webcalendar app. You can say hi to [@carolina](http://www.twitter.com/carolina) or write a comment in [abriraqui.net](http://abriraqui.net).
 
 ---
+
 
 Go, check them and their learning progress out and thanks to [55Laney69 for publishing this great picture under Creative Commons on flickr](http://www.flickr.com/photos/hansel5569/10069486844/).
