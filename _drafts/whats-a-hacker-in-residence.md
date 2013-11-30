@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does a Hacker in Residence do?"
+title: "What are Hackers in Residence doing?"
 description: "
 A vital part of [Hackership](http://www.hackership.org) are the Hackers in Residence, our industry experts, who volunteer their time to help the learners. As the programme is pretty new, so is this role within it, which is why we got often asked \"what does a hacker in residence do exactly?\". The short answer to this questions is, \"they help the learners become better hackers faster\". Which is still rather vague. This article is set out to answer that question more specifically."
 category:
