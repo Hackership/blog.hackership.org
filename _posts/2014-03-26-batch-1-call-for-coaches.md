@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Batch 1: call for coaches"
-description: ""
+description: "We know from the last batch that running with Hackers-in-Residence is a great model to get into in-depth knowledge. What **we didn't anticipate is how much help is required from good Generalists and experienced sparring partners** in the day-to-day to ensure people don't get stuck and waste time. Many of those ways of being stuck really aren't about the specific language, framework or technology but **just need a more experienced eye to look at and give the right pointers** – or a little pair programming here and there. We were definitely too few people in order to help to the degree it was needed during the last batch. In order to avoid this shortage for the next batch, we'd like to invite more people to become permanent volunteer coaches with us. But first we'd like to clarify one thing."
 category:
 authors:
     - ben
