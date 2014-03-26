@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Who are the Hackers in Residence for Batch-0?"
+authors:
+  - ben
+description: ""
+category: 
+tags: ["hackership", "berlin", "hackers-in-residence"]
+---
+
+Last week we wrote a little about what hackers in residence do at Hackership in general. This post is trying to shed some light on who these people concretely and how they approached it individually for batch-0. So, let me introduce to Johan, Alessandro, Emily, Fronx and Amir.
+
+Johan Uhle (@freenerd) was part of the Hackership programme right from the start, sat in the conceptional meetings and many aspects of the end-result have his signature. Because he was busy with organizing the Art-Hackday and is currently writing his master thesis, he decided to take a step back from the organization and support mainly through his contribution as a Hacker-in-Residence. As such, he's been at the socializing events and initial workshops from the start, worked right away with the learners but also hung out at Hackership and worked on his own things. With his extensive knowledge in Ruby and Rails, we quickly figured regular Question-&-Answer-sessions on these topics would be very useful and he is hosting one for two hours every week since.
+
+Alessandro Decina (@alessandrod), Software Architect at Spotify, is long-term supporter of OpenTechSchool and flexible in his remote-work-times. So on request he decided to visit us here in Berlin and stay with the whole group two weeks straight (in the middle of the programme). He has a long-standing experience in GStreamer and Firefox, he is a generalist and firefighter in the true meaning of the words. Making him a perfect fit for the various small fires our learners tackled every day. Aside from a few times he had to do urgent work remotely, when approached he gladly sat down with anyone and pair programmed on whatever problem they had. On top he also gave a real-coding-presentation on Git and gave tips and tricks on OpenSource contribution. 
+
+Emily Green (@greenemilymay), Backend Engineer at Soundcloud and organiser of the Berlin-based Functional Club meetup-group, was on our list of people, we want to have here right from the start. As we very early on already had one group figured out, which wanted to do functional programming with Haskel - Emilys language of choice. Though many time constrains made it harder, Emily was able to join us and help that group on exactly that critical day, when Monads were starting to drive them seriously crazy. Her day at Hackership, she was able to clear quite some confusion, answer questions and get really deep into advanced concepts of that language. And though she had to get back to work, she keeps supporting the learners online, who now aren't afraid to ask questions and even decided to join that local meetup. Having her here didn't only help them get unstuck but also encouraged them to reach out more and connect to other Haskel and functional programmers.
+
+Fronx (@fronx), Freelance Software Developer, aside from currently exploring advanced features of C and C++ programming paradigms but also functional programming, he has been a long-time RailsGirls- and OpenTechSchool-Coach. So he was very happy to hang out at Hackership and help anyone not only being stuck at Ruby or Rails but also do pair programming with a few of them or even discuss high level concepts and peak into what the Haskell group is up to once in a while. Fronx came regularly on his own schedule and whenever was there, also was happy to help. And if not directly needed just focused on his own projects and ideas and got stuff done on those.
+
+Amir Friedman (@NewArtRiot) was upon the first to volunteer to help, when he heard about the Hackership idea – even offered to take days off his full-time position to be able to help others. With his advanced knowledge on Ruby, he coached remotely right from them start so that when he came in for a day in the middle of the programme, people already knew him and had really advanced questions. On request he made a session on metaprogramming and a Q&A about more advanced ruby features but also helped people right at their laptops when they were stuck throughout the day while working remotely for his company.
+
+And of course, all Hackers-in-Residence happily joined any socialising they could attend and gladly shared more information about the companies and different work environment they work for or have worked at. Giving the learners the first hand insights on the field and hacker culture.
