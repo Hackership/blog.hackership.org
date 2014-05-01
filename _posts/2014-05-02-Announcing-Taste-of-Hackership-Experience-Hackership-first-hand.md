@@ -22,11 +22,11 @@ As the name suggests, Taste of Hackership is meant to give you an idea of what p
 
 Now for the million-dollar question: what would you be working on? The annoyingly vague answer: it depends.
 
-Unlike batch-0, the first batch of Hackership will have an emphasis on web-based multimedia. That doesn’t mean everyone should be doing something with web-based multimedia. It does mean that during Hackership we’ll have coaches specifically qualified to handle that subject, as well as workshops covering multimedia related topics. 
+Unlike batch-0, the first batch of Hackership will have an emphasis on **web-based multimedia**. That doesn’t mean everyone should be doing something with web-based multimedia. It does mean that during Hackership we’ll have coaches specifically qualified to handle that subject, as well as workshops covering multimedia related topics. 
 
 If that sounds interesting, you could use the Taste sessions to start exploring multimedia and get your feet wet. If not, that’s fine too. In that case just bring whatever else it is you want to learn and start hacking. We will be around to help you when needed and do our very best to answer all questions you may have.
 
-For the coaches: your role will be to help our learners, whenever you can. The Taste sessions will be a great opportunity for you to find out if that’s something you enjoy doing. 
+**For the coaches:** your role will be to help our learners, whenever you can. The Taste sessions will be a great opportunity for you to find out if that’s something you enjoy doing. 
 
 Pretty darn exciting, right? Well, you’ll be even more excited to know that we’ll kick off real soon, namely in the second week of May. Here’s the schedule: 
 
