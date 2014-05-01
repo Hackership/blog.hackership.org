@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Announcing Taste of Hackerhip - A chance to experience Hackership first hand"
-description: "After the success of Hackership Batch 0, I’m sure you’re all eager to find out when the first official batch of Hackership will be announced. The answer is soon, really soon. 
+description: "After the success of Hackership batch-0, I’m sure you’re all eager to find out when the first official batch of Hackership will be announced. The answer is soon, really soon. 
 
-Fortunately, there’s plenty to do until then. In fact, anyone wishing to become either a learner or a coach during Hackership Batch 1 can start preparing right now! How, you ask? By coming to one (or all) of our Taste of Hackership sessions.
+Fortunately, there’s plenty to do until then. In fact, anyone wishing to become either a learner or a coach during Hackership batch-1 can start preparing right now! How, you ask? By coming to one (or all) of our Taste of Hackership sessions.
 "
 category:
 authors:
@@ -14,15 +14,15 @@ image: /content/2014-05-02-taste-of-hackership.jpg
 
 ![Get a taste of Hackership](/content/2014-05-02-taste-of-hackership.jpg)
 
-After the success of Hackership Batch 0, I’m sure you’re all eager to find out when the first official batch of Hackership will be announced. The answer is soon, really soon. 
+After the success of Hackership batch-0, I’m sure you’re all eager to find out when the first official batch of Hackership will be announced. The answer is soon, really soon. 
 
-Fortunately, there’s plenty to do until then. In fact, anyone wishing to become either a learner or a coach during Hackership Batch 1 can **start preparing right now**! How, you ask? By coming to one (or all) of our Taste of Hackership sessions.
+Fortunately, there’s plenty to do until then. In fact, anyone wishing to become either a learner or a coach during Hackership batch-1 can **start preparing right now**! How, you ask? By coming to one (or all) of our Taste of Hackership sessions.
 
 As the name suggests, Taste of Hackership is meant to give you an idea of what participating in Hackership would be like. In fact, the Taste of Hackership sessions will be **just like Hackership**. But instead of lasting three months, the sessions will only take a couple of hours. So, if it is your goal to become a learner, bring your laptop and start hacking. Do you think you would make a great coach? Awesome, start coaching!
 
 Now for the million-dollar question: what would you be working on? The annoyingly vague answer: it depends.
 
-Unlike Batch 0, the first batch of Hackership will have a theme: multimedia. That doesn’t mean everyone should be doing something with multimedia. It does mean that during Hackership we’ll have coaches specifically qualified to handle that subject, as well as workshops covering multimedia related topics. 
+Unlike batch-0, the first batch of Hackership will have an emphasis on web-based multimedia. That doesn’t mean everyone should be doing something with web-based multimedia. It does mean that during Hackership we’ll have coaches specifically qualified to handle that subject, as well as workshops covering multimedia related topics. 
 
 If that sounds interesting, you could use the Taste sessions to start exploring multimedia and get your feet wet. If not, that’s fine too. In that case just bring whatever else it is you want to learn and start hacking. We will be around to help you when needed and do our very best to answer all questions you may have.
 
