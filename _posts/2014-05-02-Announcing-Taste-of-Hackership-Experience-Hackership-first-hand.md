@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Announcing Taste of Hackerhip - Experience Hackership first hand"
+title: "Announcing Taste of Hackerhip - A chance to experience Hackership first hand"
 description: "After the success of Hackership Batch 0, I’m sure you’re all eager to find out when the first official batch of Hackership will be announced. The answer is soon, really soon. 
 
 Fortunately, there’s plenty to do until then. In fact, anyone wishing to become either a learner or a coach during Hackership Batch 1 can start preparing right now! How, you ask? By coming to one (or all) of our Taste of Hackership sessions.
