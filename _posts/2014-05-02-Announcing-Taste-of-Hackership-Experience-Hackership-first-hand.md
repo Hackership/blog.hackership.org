@@ -12,7 +12,7 @@ tags: ["hackership", "berlin", "batch-1", "taste"]
 image: /content/2014-03-26-jen_at_board.jpg
 ---
 
-![Get a taste of Hackership](/content/2014-03-26-jen_at_board.jpg)
+![Get a taste of Hackership](/content/2014-05-02-taste-of-hackership.jpg)
 
 After the success of Hackership Batch 0, I’m sure you’re all eager to find out when the first official batch of Hackership will be announced. The answer is soon, really soon. 
 
@@ -30,7 +30,7 @@ For the coaches: your role will be to help our learners, whenever you can. The T
 
 Pretty darn exciting, right? Well, you’ll be even more excited to know that we’ll kick off real soon, namely in the second week of May. Here’s the schedule: 
 
-1. [Monday, May 12, 7:30 pm @ co-op] (http://meetup.com)
+1. [Monday, May 12, 7:30 pm @ co-op] (http:/meetup.com/opentechschool-berlin/events/180240292/?action=detail&eventId=180240292)
 
 2. [Thursday, May 22, 7:30 pm @ co-op] (http://meetup.com)
 
