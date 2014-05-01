@@ -44,4 +44,4 @@ Pretty darn exciting, right? Well, you’ll be even more excited to know that we
 
 
 ---
-Thanks to [omgponies2] (https://flic.kr/p/4Pwfkg) for making this delicious image available under Creative Commons BY-SA 2.0.
+Thanks to [Renee Suen] (https://flic.kr/p/2JapQR) for making this delicious image available under Creative Commons BY-SA 2.0.
