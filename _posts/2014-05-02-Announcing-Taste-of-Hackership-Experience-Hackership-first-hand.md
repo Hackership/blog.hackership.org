@@ -16,7 +16,7 @@ image: /content/2014-03-26-jen_at_board.jpg
 
 After the success of Hackership Batch 0, I’m sure you’re all eager to find out when the first official batch of Hackership will be announced. The answer is soon, really soon. 
 
-Fortunately, there’s plenty to do until then. In fact, anyone wishing to become either a learner or a coach during Hackership Batch 1 can start preparing **right now**! How, you ask? By coming to one (or all) of our Taste of Hackership sessions.
+Fortunately, there’s plenty to do until then. In fact, anyone wishing to become either a learner or a coach during Hackership Batch 1 can **start preparing right now**! How, you ask? By coming to one (or all) of our Taste of Hackership sessions.
 
 As the name suggests, Taste of Hackership is meant to give you an idea of what participating in Hackership would be like. In fact, the Taste of Hackership sessions will be **just like Hackership**. But instead of lasting three months, the sessions will only take a couple of hours. So, if it is your goal to become a learner, bring your laptop and start hacking. Do you think you would make a great coach? Awesome, start coaching!
 
@@ -44,4 +44,4 @@ Pretty darn exciting, right? Well, you’ll be even more excited to know that we
 
 
 ---
-Thanks to [Juhan Sonin for putting this great shot of Jennifer Patel  illustrating an idea for how software should work under Creative Commons BY-SA 2.0](http://www.flickr.com/photos/juhansonin/12140602074/).
+Thanks to [omgponies2 for making delicious image available under Creative Commons BY-SA 2.0](https://flic.kr/p/4Pwfkg).
