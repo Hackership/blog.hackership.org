@@ -9,7 +9,7 @@ category:
 authors:
     - anouk
 tags: ["hackership", "berlin", "batch-1", "taste"]
-image: /content/2014-03-26-jen_at_board.jpg
+image: /content/2014-05-02-taste-of-hackership.jpg
 ---
 
 ![Get a taste of Hackership](/content/2014-05-02-taste-of-hackership.jpg)
@@ -30,18 +30,18 @@ For the coaches: your role will be to help our learners, whenever you can. The T
 
 Pretty darn exciting, right? Well, you’ll be even more excited to know that we’ll kick off real soon, namely in the second week of May. Here’s the schedule: 
 
-1. [Monday, May 12, 7:30 pm @ co-op] (http:/meetup.com/opentechschool-berlin/events/180240292/?action=detail&eventId=180240292)
+1. [Monday, May 12, 7:30 pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events/180240292/)
 
-2. [Thursday, May 22, 7:30 pm @ co-op] (http://meetup.com)
+2. [Thursday, May 22, 7:30 pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events/180238922/)
 
-3. [Thursday, May 29, 7:30 pm @ co-op] (http://meetup.com)
+3. [Thursday, May 29, 7:30 pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events/180239062/)
 
-4. [Saturday, June 7, 2 - 6pm @ co-op] (http://meetup.com)
+4. [Saturday, June 7, 2 - 6pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events/180239232/)
 
-5. [Tuesday, June 10, 12 - 6 pm @ the Supermarket] (http://meetup.com)
+5. [Tuesday, June 10, 12 - 6 pm @ the Supermarket] (http://www.meetup.com/opentechschool-berlin/events/180239342/)
 
 **Note**: although we highly recommend you participate in at least one of these sessions, they are not a requirement for getting into Hackership.
 
 
 ---
-Thanks to [omgponies2 for making delicious image available under Creative Commons BY-SA 2.0](https://flic.kr/p/4Pwfkg).
+Thanks to [omgponies2] (https://flic.kr/p/4Pwfkg) for making this delicious image available under Creative Commons BY-SA 2.0.
