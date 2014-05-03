@@ -8,6 +8,7 @@ Fortunately, there’s plenty to do until then. In fact, anyone wishing to becom
 category:
 authors:
     - anouk
+    - amelie
 tags: ["hackership", "berlin", "batch-1", "taste"]
 image: /content/2014-05-02-taste-of-hackership.jpg
 ---
