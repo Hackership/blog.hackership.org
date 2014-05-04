@@ -39,7 +39,7 @@ Pretty darn exciting, right? Well, you’ll be even more excited to know that we
 
 4. [Saturday, June 7, 2 - 6pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events/180239232/)
 
-5. [Tuesday, June 10, 12 - 6 pm @ the Supermarket] (http://www.meetup.com/opentechschool-berlin/events/180239342/)
+5. [Tuesday, June 10, 12 - 6 pm @ Supermarkt] (http://www.meetup.com/opentechschool-berlin/events/180239342/)
 
 **Note**: although we highly recommend you participate in at least one of these sessions, they are not a requirement for getting into Hackership.
 
