@@ -9,6 +9,7 @@ authors:
     - amelie
 tags: ["hackership", "berlin", "batch-1"]
 image: /content/2014-05-11-announcing-hackership-batch-1.jpg
+date: 2014-05-20 20:01:01
 ---
 
 ![Announcing Hackership batch-1](/content/2014-05-11-announcing-hackership-batch-1.jpg)
