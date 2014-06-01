@@ -11,7 +11,7 @@ tags: ["hackership", "berlin", "batch-0", "batch-1", "crowd funding"]
 image: /content/2013-12-20-hackership-goes-indiegogo.png
 ---
 
-<p style="text-align: center"><iframe src="//player.vimeo.com/video/82281060?byline=0&amp;color=ffffff" width="650" height="365" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe src="//player.vimeo.com/video/82281060?byline=0&amp;color=ffffff" width="650" height="365" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1" ></iframe></p>
 
 As you may already know, last night [we officially concluded our experimental and entirely bootstrapped Batch-0](/2013/12/batch-0-closing-event-weve-got-cookies.html) at Betahaus. These last six weeks have been an amazing journey of learning, with several workshops led by organisers and [hackers-in-residence](/2013/12/what-are-hackers-in-residence-doing.html) but also by learners themselves who, in addition, took part in daily stand-ups, reviews and demos, Q&A sessions and pair programming. The results and feedback far exceed our expectations. It’s amazing to see just how much learners can accomplish when you give them the right environment and the support they need. Hackership works. Learners learned with more motivation and drive than any of us have seen before. It has been an incredible learning experience – for all of us.
 
