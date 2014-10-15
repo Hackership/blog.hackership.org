@@ -1,5 +1,5 @@
 .site-header {
-  padding: 0.8em 0;
+  padding: 0.8em 0 0 0;
 }
 .site-logo a {
   text-decoration: none;
@@ -30,12 +30,20 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
+nav.site-nav {
+  margin-top: 10px;
+}
+
+.main-container {
+  padding-top: 1px;
+}
+
 .site {
   font-size: 115%;
   text-align: justify;
   max-width: 44em;
   margin: 0em auto 2em;
-  padding: 3em 1em;
+  padding: 0em 1em;
   line-height: 1.5em;
 }
 
