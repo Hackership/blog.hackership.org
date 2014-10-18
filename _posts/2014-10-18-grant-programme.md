@@ -6,7 +6,7 @@ description: "Are you interested to sponsor the next generation of learning? We 
 category:
 authors:
     - anouk
-tags: ["hackership", "berlin", "batch-2", "beach", "grant programme", "sponsor" "hackership on tour"]
+tags: ["hackership", "berlin", "batch-2", "beach", "grant programme", "sponsor", "hackership on tour"]
 image: /content/2014-10-18-chairs.jpg
 ---
 
