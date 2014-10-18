@@ -16,7 +16,7 @@ publisher: ## OpenTechSchool Page
   gplus: 114286322233180061886
 
 authors:
-charlotte:
+  charlotte:
     name: "Charlotte Hayne"
     gplus:
     email: charlotte at Hackership dot org
@@ -45,7 +45,7 @@ charlotte:
     about: is freelance Software Developer and Product Creator. Aside from helping with the organisation of workshops and events, he is part of the strategic team and author of many of the blueprints.
     link: "http://blog.OpenTechSchool.org/authors.html#ben"   
   rachel:
-    name: Rachel Uwa
+    name: "Rachel Uwa"
     gplus:
     email: rachel at Hackership dot org
     image: http://www.opentechschool.org/images/team/rachel.jpg
