@@ -16,6 +16,13 @@ publisher: ## OpenTechSchool Page
   gplus: 114286322233180061886
 
 authors:
+charlotte:
+    name: "Charlotte Hayne"
+    gplus:
+    email: charlotte at Hackership dot org
+    image: /content/anouk-profile-pic.jpg
+    about: update
+    link: "http://blog.OpenTechSchool.org/authors.html#charlotte" 
   anouk:
     name: "Anouk Ruhaak"
     gplus:
@@ -36,14 +43,7 @@ authors:
     email: ben at Hackership dot org
     image: http://www.opentechschool.org/images/team/ben.jpg
     about: is freelance Software Developer and Product Creator. Aside from helping with the organisation of workshops and events, he is part of the strategic team and author of many of the blueprints.
-    link: "http://blog.OpenTechSchool.org/authors.html#ben"
- charlotte:
-    name: "Charlotte Hayne"
-    gplus:
-    email: charlotte at Hackership dot org
-    image: /content/anouk-profile-pic.jpg
-    about: update
-    link: "http://blog.OpenTechSchool.org/authors.html#charlotte"    
+    link: "http://blog.OpenTechSchool.org/authors.html#ben"   
   rachel:
     name: Rachel Uwa
     gplus:
