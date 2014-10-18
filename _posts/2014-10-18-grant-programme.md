@@ -25,8 +25,8 @@ The Grants Programme will offer full and/or partial grants to eligible students.
 
 We will be offering grants under two streams:
 
- Promoting diversity in technology
- For the study of specific technologies
+ - Promoting diversity in technology
+ - For the study of specific technologies
 
 As the donor, you can decide to bind the grant to the learners focussing on a certain technology or assign it to those who are underrepresented in tech.
 
