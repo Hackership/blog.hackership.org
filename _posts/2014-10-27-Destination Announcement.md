@@ -16,7 +16,7 @@ From January 12th – March 15th 2015, Hackership is going to Gran Canaria in th
  
 Thank you to all the ‘Earlybird’ applicants. The votes you cast decided our destination.  We will be in touch with you shortly, by 1st November about your application. 
 
-Now that we have a set destination, we are [reopening applications!](http://wwww.hackership.org/apply) If you want to spend 9 weeks taking your programming skills to the next level, we are accepting applications until **Midnight GMT+1  on Wednesday 5th November 2015.**  [opened applications](http://www.hackership.org/apply/) for the next Batch, running January - March 2015. The applications have already started flowing in and we couldn’t be more excited!
+Now that we have a set destination, we are [reopening applications!](http://wwww.hackership.org/apply) If you want to spend 9 weeks taking your programming skills to the next level, we are accepting applications until **Midnight GMT+1  on Wednesday 5th November 2015.** 
 
 Make no mistake- this is not a holiday!  Hackership is an intense hands-on learning experience and we will push you to get the most out of your time. With the support of our coaches, expect to set your own goals, study and build what is most relevant to your future and interests and learn more in nine weeks than you ever thought possible. 
 
