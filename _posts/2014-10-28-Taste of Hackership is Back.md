@@ -7,10 +7,10 @@ authors:
     - anouk
     - charlotte
 tags: ["hackership", "berlin", "batch-2", "taste"]
-image: /content/2014-08-28-pink-cookie.jpg
+image: /content/2014-10-28-pink-cookie.jpg
 ---
 
-![Get a taste of Hackership](/content/2014-08-28-pink-cookie.jpg)
+![Get a taste of Hackership](/content/2014-10-28-pink-cookie.jpg)
 
 Interested in attending Hackership as a learner or a coach but unsure whether it's your thing? Want to try it out first before committing to a full time programme? Then this is your chance.
 
@@ -22,7 +22,7 @@ Now for the million-dollar question: what would you be working on? The annoyingl
  
 **For the coaches:** your role will be to help our learners, whenever you can. The Taste sessions will be a great opportunity for you to find out if that’s something you enjoy doing.
 
-Pretty darn exciting, right? Well, you’ll be even more excited to know that we’ll kick off real soon, namely in a few days! Here’s the schedule:
+Pretty darn exciting, right? Well, you’ll be even more excited to know that we’ll kick off real soon, namely in a few days!
 Here’s the schedule: 
 
 1. [Friday, October 31, 7:00 pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events)
