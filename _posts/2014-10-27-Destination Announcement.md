@@ -36,8 +36,6 @@ Bye for now!
 
 Hackership Team
 
-*P.S.  Not really a secret. But it caught your attention right?
-
 
 
 
