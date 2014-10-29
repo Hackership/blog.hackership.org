@@ -7,10 +7,10 @@ authors:
     - anouk
     - charlotte
 tags: ["hackership", "berlin", "batch-2", "taste"]
-image: /content/2014-05-02-taste-of-hackership.jpg
+image: /content/2014-08-28-pink-cookie.jpg
 ---
 
-![Get a taste of Hackership](/content/2014-05-02-taste-of-hackership.jpg)
+![Get a taste of Hackership](/content/2014-08-28-pink-cookie.jpg)
 
 Interested in attending Hackership as a learner or a coach but unsure whether it's your thing? Want to try it out first before committing to a full time programme? Then this is your chance.
 
