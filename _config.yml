@@ -5,12 +5,12 @@ description: "time to become a better hacker"
 markdown: redcarpet
 pygments: true
 production_url: http://blog.hackership.org
-permalink: /:year/:month/:title.html 
+permalink: /:year/:month/:title.html
 
 disqus_short_name: hackership
 
 # the number of post per page
-paginate: 8 
+paginate: 8
 
 publisher: ## OpenTechSchool Page
   gplus: 114286322233180061886
@@ -22,7 +22,7 @@ authors:
     email: charlotte at Hackership dot org
     image: /content/charlotte-profile-pic.jpg
     about: Organizing Hackership Batch-2
-    link: "http://blog.OpenTechSchool.org/authors.html#charlotte" 
+    link: "http://blog.OpenTechSchool.org/authors.html#charlotte"
   anouk:
     name: "Anouk Ruhaak"
     gplus:
@@ -43,7 +43,7 @@ authors:
     email: ben at Hackership dot org
     image: /content/ben-profile-pic.jpg
     about: is freelance Software Developer and Product Creator. Aside from helping with the organisation of workshops and events, he is part of the strategic team and author of many of the blueprints.
-    link: "http://blog.OpenTechSchool.org/authors.html#ben"   
+    link: "http://blog.OpenTechSchool.org/authors.html#ben"
   rachel:
     name: "Rachel Uwa"
     gplus:
@@ -51,6 +51,12 @@ authors:
     image: http://www.opentechschool.org/images/team/rachel.jpg
     about: Organisation wizzard and keen on everything visual and design related, from 3D over visual effect up to interactive installation, she can talk with your for hours. As such she is leading the Design-, Processing and UI endevors of the OpenTechSchool Berlin.
     link: "http://blog.OpenTechSchool.org/authors.html#rachel"
+  martin:
+    name: Martin Meyerhoff
+    gplus:
+    email: mamhoff at Hackership dot org
+    image: /content/martin-profile-pic.jpg
+    link: "http://blog.OpenTechSchool.org/authors.html#mamhoff"
 default_author: ben
 # right now: OpenTechSchool Page, Aleks, Stefan, Amelie, Ben, Bea
 fb_admins: "206143009512726,100004018402966,100000191404975,674380907,1443070876,100003987735511"
