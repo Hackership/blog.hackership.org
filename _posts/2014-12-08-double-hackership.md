@@ -7,10 +7,10 @@ authors:
     - martin
     - charlotte
 tags: ["hackership", "india", "batch-2"]
-image: /content/2014-08-12-india-market.jpg
+image: /content/2014-12-08-india-market.jpg
 ---
 
-![Hackership goes to India!](/content/2014-08-12-india-market.jpg)
+![Hackership goes to India!](/content/2014-12-08-india-market.jpg)
 
 We've got exciting news: Hackership will run its next batch in not just one, but TWO locations. Hackership is now headed to Las Palmas in Gran Canaria (12th Jan- 15th March) AND NOW ALSO to the city of Mysore in India (12th January - 5th February). Double the learning, double the awesomeness!
 
