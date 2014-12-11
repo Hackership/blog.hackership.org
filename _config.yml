@@ -55,8 +55,8 @@ authors:
     name: Martin Meyerhoff
     gplus:
     email: mamhoff at Hackership dot org
-    image: /content/martin-profile-pic.jpg
-    link: "http://blog.OpenTechSchool.org/authors.html#mamhoff"
+    image: http://www.gravatar.com/avatar/ea80f12361d4b975c414f2b917135088?s=200
+    link: "http://twitter.com/mamhoff"
 default_author: ben
 # right now: OpenTechSchool Page, Aleks, Stefan, Amelie, Ben, Bea
 fb_admins: "206143009512726,100004018402966,100000191404975,674380907,1443070876,100003987735511"
