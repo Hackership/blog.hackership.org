@@ -14,7 +14,7 @@ image: /content/2014-10-28-pink-cookie.jpg
 
 Interested in attending Hackership as a learner or a coach but unsure whether it's your thing? Want to try it out first before committing to a full time programme? Then this is your chance.
 
-Anyone wishing to become either a learner or a coach during Hackership batch-1 can start preparing right now! How, you ask? By coming to one (or all) of our Taste of Hackership sessions.
+Anyone wishing to become either a learner or a coach during Hackership batch-2 can start preparing right now! How, you ask? By coming to one (or all) of our Taste of Hackership sessions.
 
 As the name suggests, Taste of Hackership is meant to give you an idea of what participating in Hackership would be like. In fact, the Taste of Hackership sessions will be **just like Hackership**. But instead of lasting a few months, the sessions will only take a few hours. So, if it is your goal to become a learner, bring your laptop and start hacking. Do you think you would make a great coach? Awesome, start coaching!
 
@@ -25,11 +25,11 @@ Now for the million-dollar question: what would you be working on? The annoyingl
 Pretty darn exciting, right? Well, you’ll be even more excited to know that we’ll kick off real soon, namely in a few days!
 Here’s the schedule: 
 
-1. [Friday, October 31, 7:00 pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events)
+1. [Friday, October 31, 7:30 pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events/216324702/)
 
-2. [Thursday, November 06, 7:00 pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events)
+2. [Thursday, November 06, 7:30 pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events/216325752/)
 
-3. [Monday, November 10, 7:00 pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events/events)
+3. [Monday, November 10, 7:30 pm @ co-op] (http://www.meetup.com/opentechschool-berlin/events/216326062/)
 
 
 **Note**: although we highly recommend you participate in at least one of these sessions, they are not a requirement for getting into Hackership.
