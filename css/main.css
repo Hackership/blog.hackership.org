@@ -179,7 +179,7 @@ nav.site-nav {
 
 .team_list img {
   width: 100%;
-  max-width: 200px;
+  max-width: 170px;
   height: auto;
   border-radius: 100%;
   margin: 10px;
@@ -188,7 +188,7 @@ nav.site-nav {
 .team_list div {
   clear: both;
   margin: 15px;
-  min-height: 200px;
+  min-height: 150px;
 }
 
 
