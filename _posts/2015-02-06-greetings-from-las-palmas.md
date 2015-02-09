@@ -7,10 +7,10 @@ category:
 authors:
     - anouk
 tags: ["hackership", "Las Palmas", "batch-2"]
-image: /content/2015-02-06-postcard.png
+image: /content/2015-02-06-postcard.jpg
 ---
 
-![Greetings from Las Palmas!](/content/2015-02-06-postcard.png)
+![Greetings from Las Palmas!](/content/2015-02-06-postcard.jpg)
 
 Hello everyone!
 
