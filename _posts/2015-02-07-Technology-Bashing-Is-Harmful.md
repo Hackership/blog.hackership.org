@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Why Tech Bashing Is Harmful"
 description: "Tech bashing is harmful and deters novice programmers from becoming developers. Tech bashers are those who berate others for using the 'wrong' technology. They often mistakenly believe that their statements are self-evident  - and thus do not feel compelled to offer rational arguments. As a result, instead of gaining any knowledge, the bashee is often left feeling sad, stupid, angry, or all of the above.  
 
@@ -11,10 +11,10 @@ authors:
     - anouk
     - charlotte
 tags: ["hackership", "Las Palmas", "batch-2"]
-image: /content/2015-02-06-punch_baby.jpg
+image: /content/2015-02-07-broken-heart-robot.jpg
 ---
 
-![Tech Bashing Leads To Confusion](/content/2015-02-06-punch_baby.jpg)
+![Tech Bashing Leads To Confusion](/content/2015-02-07-broken-heart-robot.jpg)
 
 ###***TL;DR Tech bashing is harmful and deters novice programmers from becoming developers.***
 
@@ -52,7 +52,9 @@ In case of technology bashing, the basher is simply trying to pressure the 'bash
 
 This is not to say that all tech bashers are incredibly mean people. Most of the time they are just insecure and themselves scared of the size of the field. As a result, they become more aggressive about their choices and defend them beyond what's reasonable.
 
-At the end of the day, a good debate will leave both parties feeling inspired or educated (regardless of whether your argument won the day), whereas tech bashing leaves the bashee feeling stupid, confused, angry, or all of the above.
+Even so, at the end of the day, a good debate will leave both parties feeling inspired or educated (regardless of whether your argument won the day), whereas tech bashing leaves the bashee feeling stupid, confused, angry, or all of the above.
+
+---
 
 ###To all learners out there:
 Some people will have you believe that deciding on a language or framework is the most important decision you will ever make. It really isn't. Especially when you're just starting out, it's far more important to go for a technology with a friendly community (so that you can ask questions) and to just get started! Don't fall for the 'I-will-start-writing-code-when-I-find-the-perfect-language' trap and don't let anyone else push you into it. Let discussions about languages be a fun pastime, but don't let them derail you. *
