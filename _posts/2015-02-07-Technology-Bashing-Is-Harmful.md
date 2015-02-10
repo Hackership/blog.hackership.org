@@ -76,7 +76,7 @@ Finally, being a _\<technology X\>_ developer is what you do, not who you are. S
 
 _*Should things get ugly, just remember, you may not yet have the reply that will shut up the basher, but your future self will. Just hang in there, continue learning and soon enough you'll find yourself putting a basher in their place!_
 
-Special thanks to [Nick Perez](https://www.flickr.com/photos/nickperez/) for making this image available under Creative Commons.
+Special thanks to [Tam Le](https://www.flickr.com/photos/ttle17/) for making this image available under Creative Commons.
 
 ---
 
