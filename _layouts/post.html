@@ -30,9 +30,10 @@ layout: default
     {{ content }}
     </div>
 
+<div class="row">
   <div id="the_author" class="team_list">
     {% if page.authors %}
-      <h2><span>About the Authors</span></h2>
+      <h3><span>About the Authors</span></h3>
       {% for author_id in page.authors %}
         {% assign author = site.authors[author_id] %}
         <div class="{% cycle 'left', 'right' %}">
@@ -40,28 +41,29 @@ layout: default
             <img src="{{author.image}}" >
           {% endif %}
 
-          <h3 id="{{author_id}}">{{author.name}}</h3>
-          <p>{{author.about}}</p>
-          <p><a href="mailto: {{author.email}}">{{author.email}}</a></p>
+          <h4 id="{{author_id}}">{{author.name}}</h4>
+          <p>{{author.about}} <a href="mailto: {{author.email}}">{{author.email}}</a></p>
         </div>
       {% endfor %}
 
     {% else %}
-      <h2><span>About the Author</span></h2>
+      <h3><span>About the Author</span></h3>
       <div class="left">
         {% if author.image %}
-          <img src="{{author.image}}" >
+          <img src="{{author.image}}" />
         {% endif %}
 
-        <h3 id="{{author_id}}">{{author.name}}</h3>
+        <h4 id="{{author_id}}">{{author.name}}</h4>
         <p>{{author.about}}</p>
         <p><a href="mailto: {{author.email}}">{{author.email}}</a></p>
       </div>
     {% endif %}
   </div>
+</div>
 
+<div class="row">
   <div id="related">
-    <h2><span>Related Posts</span></h2>
+    <h3><span>Related Posts</span></h3>
   
     <ul class="posts">
       {% for post in site.related_posts limit:3 %}
@@ -69,9 +71,12 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+</div>
 
+<div class="row">
   <div id="feedback">
-    <h2><span>Feedback</span></h2>
+    <h3><span>Feedback</span></h3>
+  </div>
     <div id="disqus_thread">
       <div id="disqus_thread"></div>
 <script type="text/javascript">

@@ -4,6 +4,39 @@
 .site-logo a {
   text-decoration: none;
 }
+
+.black-text-hs {
+  color: #222;
+}
+
+.green-text-hs {
+  color: #20a260;
+}
+
+.green-hs:link {
+    color: white;
+}
+
+.green-hs {
+    background-color:#20a260;
+}
+
+.body .html{
+    font-family: Lato;
+    font-style: Normal;
+    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 300;
+}
+
+.nav-hs a{
+  text-transform: none;
+}
+
+
+
 /*****************************************************************************/
 /*
 /* Home
@@ -18,28 +51,32 @@ ul.posts li {
   line-height: 1.75em;
 }
 
-ul.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+ul.posts strong {
+  color: #20A260;
 }
 
+/*ul.posts span {
+  color: #aaa;
+  font-family: Lato;
+  font-size: 80%;
+}
+*/
 /*****************************************************************************/
 /*
 /* Site
 /*
 /*****************************************************************************/
 
-nav.site-nav {
+/*nav.site-nav {
   margin-top: 10px;
-}
+}*/
 
 .main-container {
   padding-top: 1px;
 }
 
 .site {
-  font-size: 100%;
+  /*font-size: 100%;*/
   text-align: justify;
   max-width: 44em;
   margin: 0em auto 2em;
@@ -48,12 +85,13 @@ nav.site-nav {
 }
 
 .site .header a {
-  font-weight: bold;
   text-decoration: none;
+  text-transform: none;
 }
 
 .site .header h1.title {
   display: inline-block;
+   text-transform: none;
   margin-bottom: 2em;
 }
 
@@ -99,7 +137,6 @@ nav.site-nav {
     text-align: center;
     border-bottom: 1px solid #EEE;
     padding-bottom: .5em;
-    text-transform: uppercase;
     position: relative;
     margin-bottom: .75em;
   }
@@ -171,7 +208,6 @@ nav.site-nav {
   text-align: center;
   border-top: 1px solid #EEE;
   padding-top: .5em;
-  text-transform: uppercase;
   position: relative;
   margin-bottom: .75em;
 }
