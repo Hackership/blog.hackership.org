@@ -35,6 +35,88 @@ h1, h2, h3, h4, h5 {
   text-transform: none;
 }
 
+
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+ul.posts li {
+  line-height: 1.75em;
+}
+
+ul.posts strong {
+  color: #20A260;
+}
+
+/*ul.posts span {
+  color: #aaa;
+  font-family: Lato;
+  font-size: 80%;
+}
+*/
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+/*nav.site-nav {
+  margin-top: 10px;
+}*/
+/*
+.main-container {
+  padding-top: 1px;
+}
+
+.site {
+  /*font-size: 100%;*/
+  /*text-align: justify;
+  max-width: 44em;
+  margin: 0em auto 2em;
+  padding: 0em 1em;
+  line-height: 1.5em;
+}
+*/
+.site .header a {
+  text-decoration: none;
+  text-transform: none;
+}
+
+.site .header h1.title {
+  display: inline-block;
+   text-transform: none;
+  margin-bottom: 2em;
+}
+
+.site .header h1.title a {
+  color: #a00;
+}
+
+.site .header h1.title a:hover {
+  color: #000;
+}
+
+.site .header a.extra {
+  color: #aaa;
+  margin-left: 1em;
+}
+
+.site .header a.extra:hover {
+  color: #000;
+}
+
+.site .meta {
+  color: #aaa;
+}
+
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -141,7 +223,7 @@ h1, h2, h3, h4, h5 {
 
 .team_list > div {
   clear: both;
-  margin: 0 20px;
+  margin: 0 15px;
   min-height: 150px;
 }
 
@@ -151,7 +233,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .team_list p {
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
 
 .team_list .left {
@@ -170,4 +252,55 @@ h1, h2, h3, h4, h5 {
 
 .team_list .right img{
   float:right ;
+}
+
+/* FOOTER */
+
+.connect {
+  width: 40%;
+  float: left;
+}
+
+.newsletter {
+  width: 59%;
+  float: left;
+}
+
+.imprint {
+  padding: 3em 0 0 0;
+  clear: both;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.imprint address {
+  display: inline;
+}
+
+.pager {
+  text-align: center
+}
+
+.pager ul {
+  list-style: none;
+}
+
+.pager li {
+  display: inline;
+  padding: 0 0.5em;
+}
+
+.pager .disabled {
+  color: #aaa;
+}
+
+em {
+  color: inherit;
+  font-style: italic;
+  font-weight: inherit;
+}
+
+strong {
+  color: #20A260;
+  font-weight: normal;
 }

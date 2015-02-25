@@ -70,8 +70,8 @@
         <link rel="favicon" href="http://www.hackership.org/favicon.ico"> 
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="http://www.hackership.org/css/normalize.min.css">
-        <link rel="stylesheet" href="http://www.hackership.org/css/main.css">
+        <!-- <link rel="stylesheet" href="http://www.hackership.org/css/normalize.min.css"> -->
+        <!-- <link rel="stylesheet" href="http://www.hackership.org/css/main.css"> -->
         <link rel="stylesheet" href="/css/main.css">
         <link rel="stylesheet" href="/css/materialize.css">
          <link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
@@ -93,12 +93,12 @@
               <div class="nav-wrapper nav-hs">
                   <div class="container">
                   <div class="brand-logo">
-                    <a href="#"><span class="green-text-hs">Hacker</span><span class="white-text">ship</span></a>
+                    <a href="/"><span class="green-text-hs">Hacker</span><span class="white-text">ship</span></a>
                     </div>
                     <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
                   
                   
-                  <ul class="right hide-on-med-and-down">
+                  <ul id="mobile-demo" class="right hide-on-med-and-down">
 
                       <li><a style="color:white" href="http://hackership.org/about/">About</a></li>
                       <li><a style="color:white" href="http://hackership.org/hs-experience/">Experience</a></li>
@@ -111,16 +111,15 @@
          </div>
       </nav>
     </div>
-      <br /><br />
-
-          <div class="site">
-            {{ content }}
-          </div>
-        </div> <!-- /container -->
+    <div class="container">
+      {{ content }}
+    </div>
+  </div> <!-- /container -->
 
 
         
         <footer class="page-footer grey darken-3">
+            <div class="container">
                     <div class = "row footer">
                         <div class= "col m6 s6">
                         <br />
@@ -153,7 +152,7 @@
                     </div>
                 </div>
         </footer>
-        
+  
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.10.1.min.js"><\/script>')</script>

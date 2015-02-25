@@ -846,7 +846,7 @@ jQuery.extend( jQuery.easing,
 
 $(document).ready(function(){
   $('.materialboxed').materialbox();
-   $('.button-collapse').sideNav({menuWidth: 240, activationWidth: 70});
+  $(".button-collapse").sideNav();
 });
 
 }( jQuery ));;(function ($) {
