@@ -71,14 +71,11 @@ ul.posts strong {
   margin-top: 10px;
 }*/
 
-.main-container {
-  padding-top: 1px;
-}
 
 .site {
   /*font-size: 100%;*/
   text-align: justify;
-  max-width: 44em;
+  max-width: 60%;
   margin: 0em auto 2em;
   padding: 0em 1em;
   line-height: 1.5em;
@@ -133,7 +130,7 @@ ul.posts strong {
 }
 
   h2.post_title {
-    margin-top: 3em;  
+    margin-top: 2em;  
     text-align: center;
     border-bottom: 1px solid #EEE;
     padding-bottom: .5em;
