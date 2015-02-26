@@ -9,7 +9,6 @@ So, next time someone tells you they are building an app in _'insert your least 
 category:
 authors:
     - anouk
-    - charlotte
 tags: ["hackership", "Las Palmas", "batch-2"]
 image: /content/2015-02-07-broken-heart-robot.jpg
 ---
