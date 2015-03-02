@@ -34,7 +34,7 @@ Pulls data on beach ordinance violations so you can navigate the city via violat
 **[Where to Go:](http://www.github.com/codemeasandwich/computermadre)**
 Get event suggestions for Las Palmas based on your Facebook likes and Interests. “This lets you easily, as you get off the plane on the island, see what events are going on, that might be of interest to you”
 
-**[Hot or Not for Statues:](www.honfs.wtf)**
+**[Hot or Not for Statues:](http://www.honfs.wtf)**
 Discover the many statues of Las Palmas! “The city has tons of statues. This was a light-hearted, fun project for our team. Later functionalities we thought of adding were review options and navigation, so that once you say a statue is “Hot” , you get information to visit it.”
 
 **[Traffic Cam Selfie:](http://twitter.com/jellea)**
@@ -49,4 +49,4 @@ Many thanks to the GDGC (Google Developers Gran Canaria group) for co-organising
 
 
 ---
-Thanks to Benjamin Kampmann for being handy with his phone and taking these photos.
+Thanks to Benjamin Kampmann for being handy with his phone and taking this photos.
