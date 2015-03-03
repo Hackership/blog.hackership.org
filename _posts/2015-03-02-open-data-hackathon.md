@@ -49,4 +49,4 @@ Many thanks to the GDGC (Google Developers Gran Canaria group) for co-organising
 
 
 ---
-Thanks to Benjamin Kampmann for being handy with his phone and taking this photos.
+Thanks to Benjamin Kampmann for being handy with his phone and taking photos at the event.
