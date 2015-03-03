@@ -39,7 +39,7 @@ We also have a grants programme for women, that covers the programme fee.. There
 
 ###Deadline
 
-**The early-bird applications will be closed April 15th, at midnight (Berlin time).. You'll receive an e-mail with follow-up questions within 10 working days of replying and should have a final outcome within 4 weeks.**
+**The early-bird applications will be closed April 15th, at midnight (Berlin time).. You'll receive an e-mail with follow-up questions within 10 working days of applying and should have a final outcome within 4 weeks.**
 
 If you would like to receive more information or have some burning questions that need answering, please reach out to us at: team@hackership.org. Or, just send us your question using this [form](https://docs.google.com/forms/d/1Y4jGzg8JcgvejEO87JkdwmtIRWWnfOEnBP1AelmujNk/viewform). Also check out the (programme information)[http://www.hackership.org/programme/] on our website.
 
