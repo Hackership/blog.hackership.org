@@ -2,7 +2,7 @@
 layout: post
 title: "Who knew Hackership had a sister? Her name is School of Machines, Making & Make-Believe!"
 authors:
-  - Rachel
+  - rachel
 description: "Who knew Hackership had a sister? Well, sometimes life is full of surprises, isn't it! The story goes, once upon a time a cool team of people began thinking long and hard about creating a hacker school. During the organisational phase, one member of the team started dreaming of a similar yet different program, one with a strong focus on Art & Technology. And then suddenly, just like that, School of Machines, Making & Make-Believe came into being."
 category: 
 tags: ["School of Machines, Making & Make-Believe", "Art", "Technology", "Belgrade"]
