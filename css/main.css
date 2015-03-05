@@ -102,6 +102,12 @@ ul.posts strong {
   margin-bottom: 2em;
 }
 
+.site .header-image {
+  display: block;
+  text-align: center;
+}
+
+
 .site .header h1.title a {
   color: #a00;
 }
