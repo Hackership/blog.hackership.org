@@ -18,9 +18,10 @@ None of that could have happened, had we not been hosted by amazing spaces with 
 So, to all of the space owners that hosted us, and gave us a home for each intake, THANKYOU!
 
 Here are some silly photos:
-
-### Las Palmas, Spain & Mysore, India – January-March 2015
-
+<br>
+<br>
+### Las Palmas (Spain): Palet Express &
+### Mysore (India): Qwinx, Jan-March 2015
 
 
 <div class="row">
@@ -40,8 +41,10 @@ Here are some silly photos:
     <img class="col s4" src="/content/2015-03-05/room.jpg" alt="">
     <img class="col s4" src="/content/2015-03-05/present2.jpg" alt="the grass is always greener when you sleep">
 </div>
+<br>
+<br>
 
-### Berlin, Germany – July-September 2014
+### Berlin (Germany), July-Sept 2014: Zalando Tech HQ
 
 <div class="row">
     <div class="col s6">
@@ -53,8 +56,10 @@ Here are some silly photos:
     </div>
     <img class="col s6" src="/content/2015-03-05/ben-upright.jpg" alt="Ben at his 'standing desk'">
 </div>
+<br>
+<br>
 
-### Berlin, Germany – November-December 2013
+### Berlin (Germany), Nov-Dec 2013: Betahaus
 
 <div class="row">
     <img class="col s6" src="/content/2015-03-05/immersed.jpg" alt="Totally Immersed">
