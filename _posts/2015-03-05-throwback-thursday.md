@@ -21,7 +21,7 @@ Here are some silly photos:
 <br>
 <br>
 ### Las Palmas (Spain): Palet Express &
-### Mysore (India): Qwinx, Jan-March 2015
+### Mysore (India): Qwinix, Jan-March 2015
 
 
 <div class="row">
@@ -68,24 +68,3 @@ Here are some silly photos:
         <img class="col s12" style="margin-top: 15px"  src="/content/2015-03-05/dougie.jpg" alt="Gangsta Dougie">
     </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
