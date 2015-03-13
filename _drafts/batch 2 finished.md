@@ -6,7 +6,7 @@ authors:
 description: "With ONLY ONE WEEK left of this current Hackership in Las Palmas, we are already starting to feel nostalgic, about the great times had here and before.\n\n None of that could have happened, had we not been hosted by amazing spaces with fast wifi and copious amounts of coffee. \n\n So, to all of the space owners that hosted us, and gave us a home for each intake, THANKYOU!\n\nHere are some silly photos..."
 category:
 tags: ["spaces", "betahaus", "zalando", "throwback thursday"]
-image: /content/2015-03-05/dougie.jpg
+image: /content/2015-03-05/its_over_B2.jpg
 ---
 
 
