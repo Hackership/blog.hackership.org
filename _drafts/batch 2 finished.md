@@ -1,28 +1,23 @@
----
 layout: post
-title: "Throw Back Thursday - Thank you to our Space Supporters"
+title: "Hackership is Over we are sad"
 authors:
   - charlotte
   - ben
 description: "With ONLY ONE WEEK left of this current Hackership in Las Palmas, we are already starting to feel nostalgic, about the great times had here and before.\n\n None of that could have happened, had we not been hosted by amazing spaces with fast wifi and copious amounts of coffee. \n\n So, to all of the space owners that hosted us, and gave us a home for each intake, THANKYOU!\n\nHere are some silly photos..."
 category:
 tags: ["spaces", "betahaus", "zalando", "throwback thursday"]
-image: /content/2015-03-05/dougie.jpg
+image: /content/2015-03-05/its_over_B2.jpg
 ---
 
 
-With ONLY ONE WEEK left of this current Hackership in Las Palmas, we are already starting to feel nostalgic, about the great times had here and before.
-
-None of that could have happened, had we not been hosted by amazing spaces with fast wifi and copious amounts of coffee.
-
-So, to all of the space owners that hosted us, and gave us a home for each intake, THANKYOU!
+Batch 2 is over! We cannot believe it!!!
 
 Here are some silly photos:
 <br>
 <br>
 ### Las Palmas (Spain): Palet Express &
-### Mysore (India): Qwinix, Jan-March 2015
-
+### Mysore (India): Qwinx, Jan-March 2015
+![panda its over](/content/2015-03-05/its_over_B2.jpg)
 
 <div class="row">
 
@@ -57,6 +52,7 @@ Here are some silly photos:
     <img class="col s6" src="/content/2015-03-05/ben-upright.jpg" alt="Ben at his 'standing desk'">
 </div>
 <br>
+![panda its over](/content/2015-03-05/postit notes.jpg)
 <br>
 
 ### Berlin (Germany), Nov-Dec 2013: Betahaus
