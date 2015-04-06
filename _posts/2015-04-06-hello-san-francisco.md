@@ -17,7 +17,7 @@ Here at Hackership, we're on a quest. A quest to let the world know about self-d
 
 ![Hello San Francisco](/content/2015-04-05-golden-gate.jpg)
 
-Five days ago we arrived in San Francisco, where we'll be staying for the entire month of April.
+Five days ago, we (the authors, not the entirety of Hackership) arrived in San Francisco, where we'll be staying for the entire month of April.
 
 And we've hit the ground running. While we've been busy going to meetups, talking about tech and forming new partnerships, we managed to create some great new workshops and meetups that we will be hosting while we're here!
 
