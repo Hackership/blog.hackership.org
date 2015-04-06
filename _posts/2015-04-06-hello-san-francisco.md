@@ -13,9 +13,9 @@ tags: ["hackership", "Las Palmas", "batch-2", "Open data"]
 image: /content/2015-04-05-golden-gate.jpg
 ---
 
-![Hello San Francisco](/content/2015-04-05-golden-gate.jpg)
-
 Here at Hackership, we're on a quest. A quest to let the world know about self-directed learning; to tell every developer out there that there's a place, a community, where they can go and explore new technologies, be inspired by other developers and get support from friendly coaches.
+
+![Hello San Francisco](/content/2015-04-05-golden-gate.jpg)
 
 Five days ago we arrived in San Francisco, where we'll be staying for the entire month of April.
 
