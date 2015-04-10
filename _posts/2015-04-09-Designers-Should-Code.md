@@ -6,7 +6,7 @@ description: "Meet former Hackership learner Stephen Koller. Stephen is the rare
 category:
 authors:
     - anouk
-tags: ["hackership", "interview"]
+tags: ["hackership", "interview", "designer", "learner"]
 image: /content/2015-04-09-Steve.jpg
 ---
 
@@ -14,7 +14,7 @@ image: /content/2015-04-09-Steve.jpg
 
 What kind of people typically join Hackership? It's a question we get a lot. The answer is a simple one: all kinds of people.
 
-Some of our learners are very experienced developers, others are just starting out. Some studied computer science, others studied history, or physics, or art. And yet another group skipped university altogether. We have welcomed people from many different countries and people belonging to many different age groups. So yeah, we're not lying when we say 'all kinds of people'.
+Some of our learners are very experienced developers, others are just starting out. Some studied computer science, others studied history, or physics, or art. And yet another group skipped university altogether. We have welcomed people from many different countries and people belonging to many different age groups. So yeah, we really mean it when we say 'all kinds of people'.
 
 Yet after three batches we see some commonalities. Chief among them: designers and artists looking to improve their coding skills. 
 
@@ -29,9 +29,9 @@ Stephen Koller is one of them – sort of. Stephen is the rare hybrid: not a cod
 >Hackership offered a unique opportunity: learn new skills, while living in a foreign country and having the support of other talented programmers around me. I was intrigued and excited about the idea of learning in a semistructured, but ultimately self-driven, environment.
 
 **What did you work on during Hackership?**
->I went back to the basics of JavaScript, as most of my experience had been with hacky jQuery plugins instead of true development. I built a web app to interact with music sources such as SoundCloud in the hopes of creating a more collaborative way to make and share playlists of streaming music online, using the MEAN stack. 
+>I went back to the basics of JavaScript, as most of my experience had been with hacky jQuery plugins instead of true development. I built a web app to interact with music sources such as SoundCloud in the hopes of creating a more collaborative way to make and share playlists of streaming music online, using the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_%28software_bundle%29). 
 
->I also had the pleasure of participating in Music Hack Day Berlin, where my team won the jury prize for a real-time interactive music visualization in collaboration with the electronic artist Phon.o. The program reacted both to the pulse of the music played during a DJ set and the motion of smart phones during the performance, using Websockets and the HTML5 accelerometer API.
+>I also had the pleasure of participating in Music Hack Day Berlin, where my team won the jury prize for a real-time interactive music visualization in collaboration with the electronic artist [Phon.o](http://www.phon-o.com/). The program reacted both to the pulse of the music played during a DJ set and the motion of smart phones during the performance, using Websockets and the HTML5 accelerometer API.
 
 **Why not just stick to one thing, code OR design?**
 >I think designers should learn to code (and developers should learn to design) so that the communication between the two is much more fluid. I believe the end result is a product which gets to market faster and has a high potential to delight the end user.
