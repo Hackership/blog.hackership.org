@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Did I only get in because I'm a woman?' - Why We Implemented An Anonymous Review Process"
-description: "Even a positive bias can have negative consequences. By encouraging woman to apply for Hackership we may give the false impression that we accept women into the programme only because of their gender. To combat this notion we implemented an anonymous review process. Here's how we did that.
+description: "Even a positive bias can have negative consequences. By encouraging woman to apply to Hackership we may give the false impression that we accept women into the programme only because of their gender. To combat this notion we implemented an anonymous review process. Here's how we did that.
 "
 category:
 authors:
@@ -22,7 +22,7 @@ As soon as we start urging women to apply, it becomes very easy for women to bel
 
 Obviously, this is not the outcome we are looking for, quite the opposite. But then, **how can we encourage women to apply, while also making sure every applicant knows they are not admitted because of positive descrimination**?
 
-Just saying ‘we don’t have a bias’ wouldn’t be very convincing to anyone. And, whether it's conscious or not, we DO have a bias. So, we looked around to see how other organisations are solving this problem. We found a very interesting approach, pioneered by [Courtney Stanton for the Gamer Conference](http://geekfeminism.org/2012/05/21/how-i-got-50-women-speakers-at-my-tech-conference/) and also [successfully implemented by JSConf](http://2012.jsconf.eu/2012/09/17/beating-the-odds-how-we-got-25-percent-women-speakers.html): anonymous selection.
+Just saying ‘we don’t have a bias’ wouldn’t be very convincing to anyone. And, whether it's conscious or not, we DO have a bias. So, we looked around to see how other organisations are solving this problem. We found a very interesting approach, pioneered by [Courtney Stanton for a game developer conference](http://geekfeminism.org/2012/05/21/how-i-got-50-women-speakers-at-my-tech-conference/) and also [successfully implemented by JSConf](http://2012.jsconf.eu/2012/09/17/beating-the-odds-how-we-got-25-percent-women-speakers.html): anonymous selection.
 
 Both conferences select speakers by having their communities vote for talk proposals without knowing the gender (or much else) of the speaker. That way that way it becomes possible to **encourage women to apply, while also making clear that the moment they do, gender stops being a factor.**
 
