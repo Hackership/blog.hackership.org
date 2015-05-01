@@ -29,6 +29,8 @@ The Sky Office will be located in [Santa Teresa](https://www.google.com/maps/pla
 
 ***YES, we are super excited and convinced the combination of a great space, beautiful beaches and our talented coaches will make for an awesome experience!***
 
-**Want to join our Costa Rica batch this fall?** Great. Applications are open, so just fill out the form! If you have any questions about this or any other batch, just send us an email: team@hackership.org. Or, if you want to learn more about hackership [you can do so at hackership.org](http://hackership.org)!
+**Want to join our Costa Rica batch this fall?** Great. Applications are open, so just [fill out the form](http://hackership.org/apply)! If you have any questions about this or any other batch, just send us an email: team@hackership.org. Or, if you want to learn more about hackership [you can do so at hackership.org](http://hackership.org)!
+
+---
 
 p.s. Follow us on twitter for the latest updates about the construction of the space: [@hacker_ship](https://twitter.com/hacker_ship)!
