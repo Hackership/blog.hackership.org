@@ -15,7 +15,7 @@ What possessed us to decide to build a work space at the other side of the world
 
 Granted. It's certainly not the most obvious choice and it's definitely a lot more work than renting a resort, or finding a co-working space in a sunny city somewhere. In fact, we considered both options and then voted against them.
 
-Let's start at the beginning. One of our main goals - always - is to create a safe and distraction free learning space. A space where our you can forget about the day-to-day and instead focus on learning. And, after running three batches of Hackership, we have a pretty good idea of what works and what does not.
+Let's start at the beginning. One of our main goals - always - is to create a safe and distraction free learning space. A space where you can forget about the day-to-day and instead focus on learning. And, after running three batches of Hackership, we have a pretty good idea of what works and what does not.
 
 We know that a great space is one that allows you to focus intensely, but also encourages you to take a break. Real learning happens when you constantly push yourself slightly beyond your limit. But, then, shortly after, you need to give your mind time to consolidate all the new connections it made. In short: [you need time to relax, or even nap](http://www.bbc.com/news/health-30776745).
 
