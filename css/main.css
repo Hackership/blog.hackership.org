@@ -34,6 +34,20 @@ blockquote {
   margin-top: 30px;
 }
 
+
+.post_content ul li{
+  margin-left: 1em;
+  list-style-type: disc;
+}
+.post_content ul li li{
+  list-style-type: circle;
+}
+
+
+.post_content ul {
+  padding-left: 1em;
+}
+
 .nav-hs a{
   text-transform: none;
 }
