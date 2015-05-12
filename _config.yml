@@ -18,13 +18,15 @@ publisher: ## OpenTechSchool Page
 authors:
   charlotte:
     name: "Charlotte Hayne"
+    username: "charlotte"
     gplus:
-    email: charlotte at Hackership dot org
+    email: charlotte at hackership dot org
     image: /content/charlotte-profile-pic.jpg
     about: Hackership Organiser. Experienced Teacher, Education Specialist and Social Justice Activist. Former Fundraising and Growth Consultant to NGOs and early stage (social) businesses. Passionate about learning, skiing, and real equality of opportunity.
     link: "http://blog.OpenTechSchool.org/authors.html#charlotte"
   anouk:
     name: "Anouk Ruhaak"
+    username: "anouk"
     gplus:
     email: anouk at Hackership dot org
     image: /content/anouk-profile-pic.jpg
@@ -32,6 +34,7 @@ authors:
     link: "http://twitter.com/anoukruhaak"
   amelie:
     name: "Amélie Anglade"
+    username: "amelie"
     gplus: 113881124006632726148
     email: amelie at Hackership dot org
     image: http://www.opentechschool.org/images/team/amelie.jpg
@@ -39,6 +42,7 @@ authors:
     link: "http://blog.OpenTechSchool.org/authors.html#amelie"
   ben:
     name: "Benjamin Kampmann"
+    username: "ben"
     gplus: 104898591568170720911
     email: ben at Hackership dot org
     image: /content/ben-profile-pic.jpg
@@ -46,6 +50,7 @@ authors:
     link: "http://blog.OpenTechSchool.org/authors.html#ben"
   rachel:
     name: "Rachel Uwa"
+    username: "rachel"
     gplus:
     email: rachel at Hackership dot org
     image: http://www.opentechschool.org/images/team/rachel.jpg
@@ -53,6 +58,7 @@ authors:
     link: "http://blog.OpenTechSchool.org/authors.html#rachel"
   martin:
     name: Martin Meyerhoff
+    username: mamhoff
     gplus:
     email: mamhoff at Hackership dot org
     image: http://www.gravatar.com/avatar/ea80f12361d4b975c414f2b917135088?s=200
