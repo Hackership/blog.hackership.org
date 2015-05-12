@@ -9,7 +9,7 @@ title : Atom Feed
  <link href="{{ site.production_url }}/atom.xml" rel="self"/>
  <link href="{{ site.production_url }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.production_url }}</id>
+ <id>{{ site.production_url }}/</id>
  <author>
    <name>{{ site.authors[site.default_author].name }}</name>
    <email>{{ site.authors[site.default_author].email }}</email>
@@ -28,7 +28,7 @@ title : Atom Feed
 
   {% assign author = site.authors[author_id] %}
  <entry>
-   <title>{{ post.title }}</title>
+   <title>{{ post.title | xml_escape }}</title>
    <link href="{{ site.production_url }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.production_url }}{{ post.id }}</id>
