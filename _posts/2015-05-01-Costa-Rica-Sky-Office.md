@@ -11,7 +11,7 @@ image: /content/2015-05-01-construction-costa-rica.jpeg
 
 What possessed us to decide to build a work space at the other side of the world?
 
-![Work on the Sky Office has started!](/content/2015-05-01-construction-costa-rica.jpeg)
+![Work on the Sky Studio has started!](/content/2015-05-01-construction-costa-rica.jpeg)
 
 Granted. It's certainly not the most obvious choice and it's definitely a lot more work than renting a resort, or finding a co-working space in a sunny city somewhere. In fact, we considered both options and then voted against them.
 
@@ -21,11 +21,11 @@ We know that a great space is one that allows you to focus intensely, but also e
 
 Also, we're pretty sure you join Hackership not just to learn by yourself, but to interact with others as well. You come to **explore new ideas with fellow learners**, discuss programming problems with coaches and learn about new topics during workshops. A perfect space has room for that. Most options available to us did not.
 
-So we decided to build our own! Together with our local partner, **Silicon Beach**, we are creating the Sky Office. A huge work space on the second floor, overlooking the tropical rain forest on one side and the ocean on the other. It has a roof, but no walls, meaning fresh air flows in and out. Once done, it will have all the desired amenities like high speed wifi, desks, a lounge area, room for demo's and so on.
+So we decided to build our own! Together with our local partner, **Silicon Beach**, we are creating the Sky Studio. A huge work space on the second floor, overlooking the tropical rain forest on one side and the ocean on the other. It has a roof, but no walls, meaning fresh air flows in and out. Once done, it will have all the desired amenities like high speed wifi, desks, a lounge area, room for demo's and so on.
 
-![Work on the Sky Office has started!](/content/costa-rica.jpg)
+![Work on the Sky Studio has started!](/content/costa-rica.jpg)
 
-The Sky Office will be located in [Santa Teresa](https://www.google.com/maps/place/Santa+Teresa+Beach,+Costa+Rica/@9.6457056,-85.1688481,15z/data=!3m1!4b1!4m2!3m1!1s0x8f9f6e5fe79b2d3b:0x1fd6d03ba10d8d85), known for it's gorgeous, lonesome beaches and tropical climate. So, we will have some pretty spectacular break activities at our disposal, like surfing, or yoga on the beach. And did you know you [focus much better when you're surrounded by nature](http://well.blogs.nytimes.com/2008/10/17/a-dose-of-nature-for-attention-problems/)?
+The Sky Studio will be located in [Santa Teresa](https://www.google.com/maps/place/Santa+Teresa+Beach,+Costa+Rica/@9.6457056,-85.1688481,15z/data=!3m1!4b1!4m2!3m1!1s0x8f9f6e5fe79b2d3b:0x1fd6d03ba10d8d85), known for it's gorgeous, lonesome beaches and tropical climate. So, we will have some pretty spectacular break activities at our disposal, like surfing, or yoga on the beach. And did you know you [focus much better when you're surrounded by nature](http://well.blogs.nytimes.com/2008/10/17/a-dose-of-nature-for-attention-problems/)?
 
 ***YES, we are super excited and convinced the combination of a great space, beautiful beaches and our talented coaches will make for an awesome experience!***
 
