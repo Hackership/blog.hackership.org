@@ -16,9 +16,9 @@ Becoming a great developer requires a deep understanding of the tools you use. O
 
 Take Git for example. Most of us know how to use Git for day-to-day version control. But, **how well do you really understand Git?** What exactly goes on under the hood? And how would you explain that to someone else, without them getting utterly confused?
 
-Hackership Coach [Carl Crowder](http://community.hackership.org/users/carlio) was tasked with untangling this complex system and creating a workshop that clearly explains the inner workings of Git to our learners. He came up with a highly interactive approach and one of the most successful workshops during Batch 14-07 in Berlin. Inspired by this workshop [Stefan Wille](http://community.hackership.org/users/stefanwille/activity) and I extended Carl's approach during our latest Batch of Hackership in Gran Canaria. The resulting workshop yielded better results than we could have ever imagined.
+Hackership Coach [Carl Crowder](http://community.hackership.org/users/carlio) was tasked with untangling this complex system and creating a workshop that clearly explains the **inner workings of Git** to our learners. He came up with a highly interactive approach and one of the most successful workshops during Batch 14-07 in Berlin. Inspired by this workshop [Stefan Wille](http://community.hackership.org/users/stefanwille/activity) and I extended Carl's approach during our latest Batch of Hackership in Gran Canaria. The resulting workshop yielded better results than we could have ever imagined.
 
-Now, we would like to share exactly what we did to effectively explain advanced Git to experienced programmers. What follows is essentially a how-to guide, helping you to host a similar workshop for your community. This guide is meant for people who already understand Git (at a deeper level), but are looking for a new way to teach it to others.
+Now, we would like to share exactly what we did to effectively explain advanced Git to experienced programmers. What follows is essentially **a how-to guide, helping you to host a similar workshop for your community**. This guide is meant for people who already understand Git (at a deeper level), but are looking for a new way to teach it to others.
 
 ## Dancing Git
 
@@ -37,7 +37,7 @@ Our basic idea was to recreate the life of a Git-repo and what goes on inside th
     - three hats for _branches_
     - one hats for a _tag_.
 
- * a print out of our [Git Trees](LINKS MISSING) for the _sandwhich recipe_ we are compiling
+ * a print out of our [Git Trees](https://github.com/Hackership/dancing-git-slides/raw/master/Commit-Schilder.pdf) for the _sandwhich recipe_ we are compiling
  * learners
  * (at least) one coach
 
@@ -106,7 +106,7 @@ That's it. Our Git workshop. Now it's your turn to host your own. Good luck! And
 
 ---
 
-You can find the [entire video series here](https://www.youtube.com/playlist?list=PLKWB6x05XySH9-093bQZwVEFkIDJW7eiZ).
+You can find the [entire video series here](https://www.youtube.com/playlist?list=PLKWB6x05XySH9-093bQZwVEFkIDJW7eiZ) and the slides in this [Git Repo](https://github.com/Hackership/dancing-git-slides).
 
 This and all other learning material published by Hackership, is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Please go ahead and give this workshop. And if you have any feedback, please let us know.
 
