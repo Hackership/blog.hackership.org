@@ -3,7 +3,8 @@ layout: post
 title: "Hackership explained -- xkcd style"
 description: ""
 tags: []
-authors: ben
+authors:
+ - ben
 ---
 
 Just posted a new explanation of Hackership on the website -- [XKCD](http://www.kxcd.com/)-style of course:

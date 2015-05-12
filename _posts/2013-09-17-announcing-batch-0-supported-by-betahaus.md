@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Annoucing Batch-0 – supported by betahaus"
-authors: ben
+authors:
+ - ben
 description: "We are very happy to share the following news with you: Before we'll be running Hackership next year, **there will be an experimental Batch**, the \"Batch-0\" [/băch zē'rō/] for six weeks this November. The idea is to use the time to try out concepts and ideas about the programme, such as inviting [hackers in residence](http://www.hackership.org/questions/#faq-hackers-in-residence) and matching groups of people with similar interests. All that is made possible by [betahaus](http://betahaus.de/), who will be supporting us by hosting this experimental batch in their space."
 category: 
 tags: ["announcing", "betahaus", "batch-0"]
