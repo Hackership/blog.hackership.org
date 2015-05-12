@@ -10,9 +10,13 @@ tags: ["hackership", "Las Palmas", "Berlin", "batch-2", "Git", "workshop", "open
 image: /content/2015-05-06-dancing-git-repo.png
 ---
 
-At Hackership people don't only sit at their laptops and code away. Very often to master a task, you have to understand abstract concepts and complex systems. Heck, he world of IT is full of if. One of these rather abstract systems is the Git. Learning not only to use it but understand Git is one of the most asked for topics to have a workshop about at Hackership.
+At Hackership is not just about writing code. In fact, it's much more about understanding the code you write. On top  of that, our field comes with a myriad of abstract concepts and complex systems. Understanding those can be one of the hardest things to do on your own. So we're here to help.
 
-Trying to untangle this abstract system, Hackership Coach [Carl Crowder](http://community.hackership.org/users/carlio) experimented with a new, highly interactive approach at Batch 14-07 in Berlin. Inspired by its potential [Stefan Wille](http://community.hackership.org/users/stefanwille/activity) and I extended the approach during the latest Batch in Gran Canaria to run it again, yielding better results than we could have ever imagined. Today, I want to share with you this approach of explaining Git and its internal system to software programmers of all degrees. Presenting:
+Take Git for example. Many of us know how to use Git for day-to-day version control. But, how well do you really understand Git? What exactly goes on under the hood?
+
+Trying to untangle this abstract system, while trying to find a way to clearly explain it to others, Hackership Coach [Carl Crowder](http://community.hackership.org/users/carlio) experimented with a new, highly interactive approach, at Batch 14-07 in Berlin. Inspired by this workshop and its potential [Stefan Wille](http://community.hackership.org/users/stefanwille/activity) and I extended the approach during our latest Batch in Gran Canaria. The consequent workshop yielding better results than we could have ever imagined.
+
+Now, we would like to share exactly what we did to effectively explain the inner workings of Git to experienced programmers. What follows is essentially a how-to guide, helping you to host a similar workshop for your community. This guide is meant for people who understand Git (at a deeper level), but are looking for a new way to teach it to others.
 
 ## Dancing Git
 
@@ -20,7 +24,7 @@ Trying to untangle this abstract system, Hackership Coach [Carl Crowder](http://
 
 **Basics Idea**
 
-Recreate the life of a Git-repo and what goes on inside the `.git`-folder when various commands are execute. Using the learners as `git objects` either a `commit` holding a `tree` and pointing to their `predecessors` or being a `variable` pointing to another object. Pointers have hats of different variate to represent the abstracted git pointers like _head_, _branches_ and _tags_.
+Our basic idea was to recreate the life of a Git-repo and what goes on inside the `.git`-folder when various commands are executed. We used our learners as `git objects`. They could either be a `commit` holding a `tree` and pointing to their `predecessors`, or they could be a `variable` pointing to another object. Pointers have hats of different colors to represent the abstracted git pointers like _head_, _branches_ and _tags_.
 
 **What you will need**
 
