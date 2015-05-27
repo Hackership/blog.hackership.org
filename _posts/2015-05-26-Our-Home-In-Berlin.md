@@ -23,7 +23,7 @@ Even more awesome, with meeting rooms and their auditorium available, we have a 
 
 ![Wooga office!](/content/2015-05-26-wooga-space-white.png)
 
-If you have any topic suggestions of things you would like to attend a talk on, or even better, if you want to give a talk or workshop on something in collaboration with us, then just let us know (info@hackership.org).
+If you have any topic suggestions of things you would like to attend a talk on, or even better, if you want to give a talk or workshop on something in collaboration with us, then just let us know (team@hackership.org).
 
 ###Wooga’s positive engineering culture
 The Wooga  team is one of the most successful in **mobile game development**, with over 70 million people playing their free games every month across multiple platforms. More than just hosting us in a great space in a central location, we’re really happy to partner with a company that seems to have a very positive engineering culture.
