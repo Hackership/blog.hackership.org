@@ -103,6 +103,7 @@ ul.posts strong {
   /*font-size: 100%;*/
   text-align: justify;
   max-width: 60%;
+  min-width: 300px;
   margin: 0em auto 2em;
   padding: 0em 1em;
   line-height: 1.5em;
