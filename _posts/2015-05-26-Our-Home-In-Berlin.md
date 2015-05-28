@@ -26,7 +26,7 @@ Even more awesome, with meeting rooms and their auditorium available, we have a 
 If you have any topic suggestions of things you would like to attend a talk on, or even better, if you want to give a talk or workshop on something in collaboration with us, then just let us know (team@hackership.org).
 
 ###Wooga’s positive engineering culture
-The Wooga  team is one of the most successful in **mobile game development**, with over 70 million people playing their free games every month across multiple platforms. More than just hosting us in a great space in a central location, we’re really happy to partner with a company that seems to have a very positive engineering culture.
+The Wooga  team is one of the most successful in **mobile game development**, with over 50 million people playing their free games every month across multiple platforms. More than just hosting us in a great space in a central location, we’re really happy to partner with a company that seems to have a very positive engineering culture.
 
 I actually first met Mel, a developer at Wooga for the last six years, at the Womenize conference in Berlin, earlier this year.  Some of the Wooga team were speaking about diversity and the **gender balance** (or lack thereof) in tech. Wooga has a  good ratio across the company, and whilst, as is common, there are still many more men in developer roles, they strive to attract more female developers too. This is important to us, as we believe strongly in modelling the change you want to see. (More news about our Mentorship Programme to come soon :) )
 
