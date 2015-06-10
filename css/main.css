@@ -335,3 +335,25 @@ strong {
   color: #20A260;
   font-weight: normal;
 }
+
+/*
+Social Share buttons additions
+*/
+
+.row .social_share_privacy_area.box  {
+  width: 100% !important;
+}
+.social_share_privacy_area.box li {
+  display: inline-block !important;
+  width: 95px;
+}
+
+.post_meta {
+  position: relative;
+}
+.post_meta iframe {
+  display: inline-block !important;
+  position: relative;
+  top: 6px;
+  margin-left: 10px;
+}

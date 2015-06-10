@@ -25,10 +25,17 @@ layout: default
     {% endif %}
     &middot;
     {{ page.date | date_to_long_string }}
+    <script type="text/javascript">
+      reddit_url = "{{  site.production_url  }}{{ page.url }}";
+    </script>
+    <script type="text/javascript" src="//www.redditstatic.com/button/button1.js"></script>
   </span>
     <div class="post_content">
     {{ content }}
     </div>
+<div class="row">
+  <div  data-order="reddit twitter facebook hackernews googleplus linkedin email" data-social-share-privacy='true'></div>
+</div>
 
 <div class="row">
   <div id="the_author" class="team_list">
@@ -89,4 +96,7 @@ layout: default
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
     })();
   </script>
+  <script type="application/x-social-share-privacy-settings">{"path_prefix":"http://panzi.github.io/SocialSharePrivacy/","layout":"box","uri":"{{  site.production_url  }}{{ page.url }}","services":{"buffer":{"status":false},"delicious":{"status":false},"disqus":{"status":false},"fbshare":{"status":false},"flattr":{"status":false},"pinterest":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false}}}</script>
+   <script type="text/javascript" src="http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.cookies.js"></script>
+   <script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script>
 </div>
