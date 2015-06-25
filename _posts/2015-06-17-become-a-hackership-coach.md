@@ -8,7 +8,7 @@ category:
 authors:
     - charlotte
     - ben
-tags: ["hackership", "otsconf", "2015", "twitter", "contest"]
+tags: ["hackership", "coaching", "2015", "berlin"]
 image: /content/2015-06-17-coaching.png
 
 ---
@@ -49,7 +49,7 @@ As if working around amazing people, helps them learn and grow, wasn't enough al
 
 **Interested in becoming a coach?**
 
-We are starting our Berlin batch on 3rd July 2015, and though we have sufficient coaches, we also have desk space thanks to [our great venue hosts](http://localhost:4014/2015/05/Our-Home-In-Berlin.html). So if you specifically have experience in NodeJS or Ruby/Rails and are interested in coaching, let us know! You can fill out the [coach form on our website](http://www.hackership.org/get-involved/#coach), or just send a brief email to <team@hackership.org> and we'll get in touch with you.
+We are starting our Berlin batch on 3rd July 2015, and though we have sufficient coaches, we also have desk space thanks to [our great venue hosts](/2015/05/Our-Home-In-Berlin.html). So if you specifically have experience in NodeJS or Ruby/Rails and are interested in coaching, let us know! You can fill out the [coach form on our website](http://www.hackership.org/get-involved/#coach), or just send a brief email to <team@hackership.org> and we'll get in touch with you.
 
 
 
