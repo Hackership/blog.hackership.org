@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Win one of three tickets to OTSConf"
-description: "The birds are singing, the flowers are in full bloom and Berlin has just about recovered from the serious amounts of eating, drinking and dancing that took place at Karneval der Kulturen this weekend. So now seems like the perfect time to announce our venue location for this Summer..."
+description: "Hackership gives away three tickets to [OTSConf 2015](https://otsconf.com/) on August 15th in Dortmund. Learn all details about the conference and how to enter the competition in this blog post"
 category:
 authors:
     - ben
-tags: ["hackership", "otsconf", "2015", "wooga"]
+tags: ["hackership", "otsconf", "2015", "twitter", "contest"]
 image: /content/2015-06-25-otsconf.png
 
 ---
