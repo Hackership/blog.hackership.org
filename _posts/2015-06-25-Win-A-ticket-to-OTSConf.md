@@ -17,7 +17,7 @@ On August 15th, the OpenTechSchool Dortmund chapter will host the very first [OT
 
 Amazing, right?
 
-So, you might understand why in all the excitement, we bought a few ticket more than we needed. You simply can't have too many tickets for an event like this. Although, that means someone else can't go. Well, that isn't right either. So, we decided to give these three tickets away in a twitter contest.
+So, you might understand why in all the excitement, we **bought a few ticket more than we needed**. You simply can't have too many tickets for an event like this. Although, that means someone else can't go. Well, that isn't right either. So, we decided to give these three tickets away in a twitter contest.
 
 Introducing:
 
