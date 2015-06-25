@@ -46,6 +46,7 @@ All tweets with that text and a picture, posted **before July 10th 23:59** (Berl
  - the third ticket is **raffled among all other participating accounts**
 
 
+If you have any further questions, please feel free to use the comments form down here.
 
 ---
 ¹ As usual, team members of Hackership and OTSconf are excluded from the raffle. So my tweet there doesn't count ...
