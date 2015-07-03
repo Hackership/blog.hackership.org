@@ -14,7 +14,7 @@ Today we are onboarding our learners, who, from Monday onwards will be occupying
 
 ![Onboarding Day](/content/2015-07-03-onboarding-day.jpg)
 
-Throughout this 9 week batch, we will also host workshops and talk that will be open to the general public (you!). So even if you are not part of this batch, you can get a taste of what we do here! Expect talks and workshops on Git, React, functional programming and HTTP, among others. 
+Throughout this 9 week batch, we will also host workshops and talks that will be open to the general public (you!). So that even when you are not part of this batch, you can get a taste of what we do here! Expect talks and workshops on Git, React, functional programming and HTTP, among others.
 
 First up is a **debugging workshop this Wednesday**, July 8. We do not have many places available for this one, so sign up quickly to secure your seat!
 
