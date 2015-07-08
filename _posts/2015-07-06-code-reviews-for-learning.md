@@ -22,17 +22,20 @@ Alternatively, you could walk someone through your code and explain them what is
 
 ###Why have a code review?
 
- 1. **Feedback**
+**Feedback**
+
 In general, code reviews are great ways to get feedback on your code and then use this feedback to improve the code. For instance, you may have made a typo or introduced a bug that you are unaware of, maybe a second pair of eyes will help you catch it. Alternatively, a reviewer can give you feedback on style, or give you tips on how to write the same thing in a more efficient way.
 
-For learners, this feedback is invaluable. It encertains that you truly understood the code you wrote and immediately correct errors, or style mistakes. That way you are far less likely to adopt bad habits and practices.
+For learners, this feedback is invaluable. It allows you to encertain that you truly understood the code you wrote and immediately correct errors, or style mistakes. That way you are far less likely to adopt bad habits and practices.
 
- 2. **Knowledge transfer**
+**Knowledge transfer**
+
 Within teams, code reviews can help you share your knowledge of the code base. In a learning environment code reviews are a good way to update your coach on your progress. Or, alternatively, if your code is reviewed by another learner, they will end up learning something new!
 
- 3. **Commit to write better code**
+**Commit to write better code**
+
 Knowing that your code will see the light of day will make you more likely to think twice before committing something. It could motivate you to take a second look at your code and see if it would hold up under scrutiny. That said, don't let perfectionism get the better of you – there is a balance!
 
-Why is this important for learning? As you are learning new languages or frameworks, it's often tempting to _just make it work_ and care less about whether the approach is indeed the best one. If you know someone will go through your code you are far more likely to reflect on the code you wrote.
+Why is this important for learning? As you are learning new languages or frameworks, it's often tempting to _just make it work_ and care less about whether your approach is indeed the best one. If you know someone will go through your code you are far more likely to reflect on the code you wrote.
 
 **Anything to add? Discuss below!**
